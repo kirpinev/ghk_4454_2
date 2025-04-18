@@ -57,11 +57,6 @@ export const App = () => {
             src={cat}
             alt="Картинка АИ"
             width={80}
-            style={{
-              backgroundColor: "#D6E6FF",
-              borderRadius: "100%",
-              padding: "5px",
-            }}
           />
         </div>
 
